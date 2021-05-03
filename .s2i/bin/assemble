@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cat /usr/libexec/s2i/assemble

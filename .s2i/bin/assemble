@@ -1,3 +1,7 @@
 #!/bin/bash
 
 cat /usr/libexec/s2i/assemble
+
+cd /tmp/src
+
+./build.sh Build

@@ -1,5 +1,7 @@
 #!/bin/bash
 
+dnf install mono wget -y
+
 cat /usr/libexec/s2i/assemble
 
 cd /tmp/src
